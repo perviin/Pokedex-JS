@@ -1,4 +1,4 @@
-﻿# Pokedex-JS
+﻿# Pokedex-JS - https://perviin-pokedex.netlify.app/
 
 ## Description
 
